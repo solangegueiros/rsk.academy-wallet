@@ -1,0 +1,19 @@
+{
+  "name": "rsk-academy-wallet",
+  "version": "1.0.0",
+  "description": "RSK Academy wallet",
+  "main": "truffle-config.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["blockchain", "smart contracts", "ethereum", "rsk", "rsksmart"],
+  "author": "Solange Gueiros <solangegueiros@gmail.com> (https://solange.dev)",
+  "license": "MIT",
+  "dependencies": {
+    "@openzeppelin/contracts": "2.5.1",
+    "@truffle/hdwallet-provider": "1.0.35"
+  }
+}
